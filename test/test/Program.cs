@@ -13,4 +13,8 @@ namespace test
             Console.WriteLine("新建的项目");
         }
     }
+    public class test
+    {
+        public int age { get; set; }
+    }
 }
